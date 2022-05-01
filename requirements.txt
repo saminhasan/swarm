@@ -1,0 +1,4 @@
+dronekit==2.9.2
+matplotlib==3.4.3
+NavPy==1.0
+numpy==1.21.2
